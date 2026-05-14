@@ -1,0 +1,21 @@
+nome,idade,cargo,setor,salario,data_admissao,ultima_ferias,status_ferias,anos_ferias_vencidas,tempo_empresa_anos
+Carlos Silva,37,Técnico Elétrico,Manutenção Elétrica,4612.33,2022-11-06,2025-02-10,1 ano vencido,1,3.5
+Mariana Souza,23,Técnico Elétrico,Facilities,4132.88,2024-04-20,2024-12-05,1 ano vencido,1,2.0
+João Pereira,56,Auxiliar de Manutenção,Facilities,2398.84,2020-08-24,2024-08-17,1 ano vencido,1,5.7
+Fernanda Lima,32,Assistente Administrativo,Manutenção Elétrica,3638.21,2017-07-10,2022-11-15,3 anos vencidos,3,8.8
+Lucas Martins,43,Assistente Administrativo,Manutenção Hidráulica,2822.97,2024-03-16,2025-09-26,Em dia,0,2.1
+Patrícia Alves,38,Técnico Elétrico,Administrativo,4771.24,2024-11-12,2022-08-07,3 anos vencidos,3,1.5
+Rafael Gomes,40,Técnico Elétrico,Operações,3618.2,2018-04-21,2023-07-17,2 anos vencidos,2,8.1
+Aline Rocha,36,Mecânico,Manutenção Elétrica,3068.74,2016-09-06,2024-03-28,2 anos vencidos,2,9.7
+Bruno Costa,51,Mecânico,Manutenção Elétrica,3570.19,2018-03-23,2024-02-14,2 anos vencidos,2,8.1
+Juliana Fernandes,39,Supervisor,Administrativo,5419.01,2017-06-25,2026-01-11,Em dia,0,8.9
+Thiago Ribeiro,39,Mecânico,Manutenção Hidráulica,3693.39,2018-03-05,2024-10-19,1 ano vencido,1,8.2
+Amanda Melo,42,Auxiliar de Manutenção,Manutenção Hidráulica,3021.8,2020-11-07,2024-04-04,2 anos vencidos,2,5.5
+Eduardo Nunes,42,Mecânico,Facilities,4314.55,2022-12-20,2022-10-18,3 anos vencidos,3,3.4
+Camila Barbosa,37,Gerente,Manutenção Hidráulica,11324.4,2016-12-30,2023-07-13,2 anos vencidos,2,9.4
+Felipe Carvalho,36,Coordenador,Facilities,7998.5,2023-10-20,2023-03-23,3 anos vencidos,3,2.6
+Larissa Teixeira,32,Auxiliar de Manutenção,Manutenção Elétrica,2352.84,2016-06-20,2022-07-07,3 anos vencidos,3,9.9
+Diego Santos,51,Técnico Elétrico,Operações,4072.43,2019-06-02,2023-07-29,2 anos vencidos,2,6.9
+Vanessa Oliveira,56,Auxiliar de Manutenção,Manutenção Elétrica,2881.71,2016-12-06,2023-06-14,2 anos vencidos,2,9.4
+Ricardo Moreira,32,Supervisor,Manutenção Elétrica,5587.0,2020-04-06,2025-11-25,Em dia,0,6.1
+Bianca Araújo,41,Técnico Hidráulico,Facilities,4660.2,2018-03-09,2025-01-15,1 ano vencido,1,8.2
